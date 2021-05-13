@@ -1,0 +1,49 @@
+*{
+    /* background-color: rgba(155, 222, 135, 0.589);  */
+    font-family: 'Poppins', sans-serif;   
+}
+#logo{
+    /* height: 60px; */
+    width: 135px;
+    height: 10em;
+
+}
+.image{
+height: fit-content;
+border: 2px solid red;
+}
+.empty{
+   /* border: 10px solid green; */
+   border: 10px ;
+   border-color: pink;
+   border-style: dashed;
+    background-color: black !important;
+    background-color: beige;
+
+    font-style: italic;
+}
+#themepark{
+    height: 160px;
+    width: 150px;
+    border-radius: 10px;
+}
+div{
+   /* border-radius: 50%;  */
+}
+h2{
+    color: rgba(10, 64, 180, 0.3);
+}
+#park {
+    position: absolute;
+    top: 533px;
+    left: 83px;
+}
+h1{
+
+    font-size: 60px;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-weight: 1000;
+    font-style: inherit;
+    color: rgb(10, 64, 180);
+   
+}
